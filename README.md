@@ -28,3 +28,25 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+
+### Day 1: July 14, 2017
+
+**Today's Progress**: Created a json file, hosted it on github, successfully brought it down into my js with httpRequest. Learned how to use querySelectorAll to select all buttons and bind individual eventListeners to them using Array.from().forEach like so:
+```javascript
+Array.from(chordButton).forEach(button => {
+  button.addEventListener('click', function(e) {
+    let currentChord = this.dataset.chord;
+    // console.log(this);
+    // console.log(chordList.guitar.a.major.audio);
+    console.log(chordList.guitar[currentChord].audio);
+    console.log(currentChord);
+  })
+})
+```
+The rest of the console.log nonsense in my code is maybe me trying to figure out something that might be useless. It's just a really roundabout way to pull data from individual buttons...
+
+**Thoughts**: Sometimes you spend a large amount of time(1 hour in this case) doing something that might be useless. So I'm a bit frustrated about that.
+
+**Total Time: 2:15**
+
+**Link(s) to work**: [Ear trainer app thing](https://github.com/westleyc30/gquiz)
