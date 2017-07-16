@@ -50,3 +50,14 @@ The rest of the console.log nonsense in my code is maybe me trying to figure out
 **Total Time: 2:15**
 
 **Link(s) to work**: [Ear trainer app thing](https://github.com/westleyc30/gquiz)
+
+### Day 2: July 15, 2017
+
+**Today's Progress**
+NONE. All I'm trying to do is put whats in my html data attribute into a variable and putting that into an object call so I can use buttons to play different sounds. I could do it an easier way I guess but I would have to type more code things. I'd be done if I just used a switch statement but noooooooooOOOOOO I wanna make things easier and now I've spent a couple hours doing something that might not work :{
+Oh well at least I might be learning something? The code is same as day 1.
+
+**Thoughts**
+Frustrated
+
+**Total Time: 1:24**
