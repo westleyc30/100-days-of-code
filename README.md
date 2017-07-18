@@ -61,3 +61,15 @@ Oh well at least I might be learning something? The code is same as day 1.
 Frustrated
 
 **Total Time: 1:24**
+
+### Day 3: July 17, 2017
+
+Wasn't able to code yesterday so today is the new day three.
+
+**Today's Progress**
+Learned some vue.js I kinda like it better than react but I don't really know why. Nothing done on my project but I'm going to be using vue to make it from now on.
+
+**Thoughts**
+Pretty neutral about things.
+
+**Total Time: didn't keep track**
