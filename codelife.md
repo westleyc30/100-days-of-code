@@ -13,7 +13,10 @@ I'll eventually put all the coding bookmarks I've found onto here so I can more 
 * [advanced sass](https://gist.github.com/jareware/4738651)
 
 ## Javascript
+### Node
 * [Some reddit guys comment on how to deploy a node server](https://www.reddit.com/r/webdev/comments/6nd7oj/how_do_i_upload_my_nodejs_project_to_digitalocean/)
+### React
+* [Ebook, Road to learn react](https://www.robinwieruch.de/the-road-to-learn-react/)
 
 ## Design
 * [Psycology of fonts](https://crew.co/blog/the-psychology-of-fonts/)
