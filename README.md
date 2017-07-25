@@ -147,3 +147,20 @@ Pretty good idea of what I'm doing with mongo so I feel good about that. But I'm
 
 **Total Time: 20th: 1:55, 21st: 2:05**
 ***
+
+### Day 8: July 25th, 2017
+
+**Today's Progress**  
+  
+Worked on building a menu in vue based on what items I can pull down from a JSON file I stored on github. It worked, but, I want it to populate the menu items automatically. So when I add a new chord to the JSON file it makes a new list item. Oh well, another day perhaps. It wouldn't take too much time to just add lines to the vue file.
+   
+**Thoughts**  
+  
+Feel good. I may have not have progressed much but I learned how to do something.  
+
+[link to the thing](https://codepen.io/westleyc30/pen/jwgzpK?editors=0010)
+
+
+**Total Time: 1:00*
+***
+
