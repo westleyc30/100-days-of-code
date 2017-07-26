@@ -164,3 +164,19 @@ Feel good. I may have not have progressed much but I learned how to do something
 **Total Time: 1:00*
 ***
 
+### Day 9: July 26th, 2017
+
+**Today's Progress**  
+  
+I took what I made yesterday and made it ugly
+   
+**Thoughts**  
+  
+eh 
+
+[link to the thing](https://codepen.io/westleyc30/pen/jwgzpK?editors=0010)
+
+
+**Total Time: ???*
+***
+
