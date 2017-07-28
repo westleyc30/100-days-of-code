@@ -180,3 +180,20 @@ eh
 **Total Time: ???*
 ***
 
+### Day 10: July 27th, 2017
+
+**Today's Progress**  
+  
+I fixed up some of my old projects to work with keyboard input using event handlers
+   
+**Thoughts**  
+  
+-Good work Westley.
+-Thanks Westley.
+
+[Calculator](https://westleyc30.github.io/calculator/)
+I messed up something on git for the wiki search thing so I'll have to fix that later
+
+
+**Total Time: ???*
+
