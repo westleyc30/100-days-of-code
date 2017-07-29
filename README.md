@@ -195,5 +195,24 @@ I fixed up some of my old projects to work with keyboard input using event handl
 I messed up something on git for the wiki search thing so I'll have to fix that later
 
 
-**Total Time: ???*
+**Total Time: ???**
+***
+
+### Day 11: July 28th, 2017
+
+**Today's Progress**  
+  
+I feel kinda dumb. So in these old project I use gulp to manage the scss and to do browserSync and stuff. So the way I had it set up in this project was to do all the sass stuff and put it into the same folder instead of the docs folder. Oops. Everything works I just wish I could have the cards slide in instead of pop in.
+   
+**Thoughts**  
+  
+Feelin dumb
+
+[Calculator](https://westleyc30.github.io/calculator/)
+[Wikipedia search api](https://westleyc30.github.io/wiki-viewer/)
+
+
+**Total Time: ???**
+***
+
 
