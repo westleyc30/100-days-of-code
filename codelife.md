@@ -2,10 +2,10 @@
 I'll eventually put all the coding bookmarks I've found onto here so I can more easily scan through them.
 
 ## My github projects so far
-* [Calculator (Works but some 1 functionality is *unfinished*)](https://westleyc30.github.io/calculator/)
+* [Calculator](https://westleyc30.github.io/calculator/)
 * [Portfolio (works need to update project info *unfinished*)](https://westleyc30.github.io/portfolio/)
 * [Weather app (html/css/js)](https://westleyc30.github.io/local_weather/)
-* [Wiki Search (works but css is *unfinished*)](https://westleyc30.github.io/wiki-viewer/)
+* [Wiki Search](https://westleyc30.github.io/wiki-viewer/)
 
 ## HTML
 
@@ -33,5 +33,7 @@ I'll eventually put all the coding bookmarks I've found onto here so I can more 
 * [100 days of code site](http://100daysofcode.com/index.html)
 * [Regular Expressions](https://qntm.org/files/re/re.html)
 * [Zen Habits](https://zenhabits.net/)
+* [News API](https://newsapi.org)
+* [Keycode thing](keycode.info)
 
  If by some miracle you're seeing this and know any site, guide or what have you [twitter me](https://twitter.com/hideshis)
