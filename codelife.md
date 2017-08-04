@@ -8,11 +8,20 @@ I'll eventually put all the coding bookmarks I've found onto here so I can more 
 * [Wiki Search](https://westleyc30.github.io/wiki-viewer/)
 
 ## HTML
+* [Semenantic HTML](https://www.smashingmagazine.com/2015/02/design-last/#semantic-html)
+* [svg talk(Sarah Drasner)](https://www.youtube.com/watch?v=BTyKwxf60s4)
+* [slides to above talk](http://slides.com/sdrasner/sfhtml5-17#/25)
 
 ## CSS
 * [advanced sass](https://gist.github.com/jareware/4738651)
+* [css grid](https://www.youtube.com/watch?v=7kVeCqQCxlk)
+* [grid by example](https://gridbyexample.com)
 
 ## Javascript
+  
+### ES6
+* [destructuring explained](http://wesbos.com/destructuring-objects/)
+* [more destructuring](http://www.projectforrest.com/path/97)
 ### Node
 * [Some reddit guys comment on how to deploy a node server](https://www.reddit.com/r/webdev/comments/6nd7oj/how_do_i_upload_my_nodejs_project_to_digitalocean/)
 ### React
