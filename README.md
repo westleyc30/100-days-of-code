@@ -40,7 +40,7 @@ I'll eventually put all the coding bookmarks I've found onto here so I can more 
 * [UXdesign.cc](https://uxdesign.cc/)
 
 ## Inspiration
-* [ueno](https://ueno.co/)
+* [ueno](https://ueno.co/) 
 
 
 ## Other(to be sorted)
@@ -50,5 +50,6 @@ I'll eventually put all the coding bookmarks I've found onto here so I can more 
 * [News API](https://newsapi.org)
 * [Keycode thing](keycode.info)
 * [regex crossword puzzle](https://regexcrossword.com/)
+* [Mozilla seo guide](https://moz.com/beginners-guide-to-seo)
 
  If by some miracle you're seeing this and know any cool site, guide or what have you [twitter me](https://twitter.com/hideshis)
