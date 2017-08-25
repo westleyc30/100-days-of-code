@@ -1,41 +1,76 @@
-# Primary Resources on the #100DaysOfCode
+# Useful resources for my coding and life
+I'll eventually put all the coding bookmarks I've found onto here so I can more easily scan through them.
 
-[The #100DaysOfCode Official Site](http://100daysofcode.com/)
+## My github projects so far
+* [Calculator](https://westleyc30.github.io/calculator/)
+* [Portfolio (works need to update project info *unfinished*)](https://westleyc30.github.io/portfolio/)
+* [Weather app (html/css/js)](https://westleyc30.github.io/local_weather/)
+* [Wiki Search](https://westleyc30.github.io/wiki-viewer/)
+* [Pomodoro *unfinished(not started :D)*](https://pom-app.herokuapp.com/)
 
-### Articles
-1. [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4) freeCodeCamp Medium
-2. [Boot Up 2017 with the #100DaysOfCode Challenge](https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b) freeCodeCamp Medium 
-3. [Resistance, Habit Change and the #100DaysOfCode Movement](https://studywebdevelopment.com/100-days-of-code.html) StudyWebDevelopment Blog
+## HTML
+* [Semenantic HTML](https://www.smashingmagazine.com/2015/02/design-last/#semantic-html)
+* [svg talk(Sarah Drasner)](https://www.youtube.com/watch?v=BTyKwxf60s4)
+* [slides to above talk](http://slides.com/sdrasner/sfhtml5-17#/25)
+* [accessibility](http://webaim.org/resources/contrastchecker/)
 
-### Podcasts
+## CSS
+* [advanced sass](https://gist.github.com/jareware/4738651)
+* [css grid](https://www.youtube.com/watch?v=7kVeCqQCxlk)
+* [grid + flexbox](https://css-tricks.com/css-grid-replace-flexbox/)
+* [grid by example](https://gridbyexample.com)
+* [BEM naming](http://getbem.com/naming/)
+* [mobile first css](https://www.sitepoint.com/introduction-mobile-first-media-queries/)
 
-# Additional Resources on the #100DaysOfCode
+## Javascript
+  
+### ES6
+* [destructuring explained](http://wesbos.com/destructuring-objects/)
+* [more destructuring](http://www.projectforrest.com/path/97)
+* [higher order functions](https://developer.ibm.com/node/2016/01/11/higher-order-functions-in-es6easy-as-a-b-c/)
+* [Async await](https://blog.patricktriest.com/what-is-async-await-why-should-you-care/)
+* [more async await](https://davidwalsh.name/async-await)
+### Node
+* [Some reddit guys comment on how to deploy a node server](https://www.reddit.com/r/webdev/comments/6nd7oj/how_do_i_upload_my_nodejs_project_to_digitalocean/)
+### React
+* [Ebook, Road to learn react](https://www.robinwieruch.de/the-road-to-learn-react/)
+* [react node on a server](http://ericsowell.com/blog/2017/5/16/create-react-app-and-express)
 
-## Helpful Articles
-1. [Gentle Explanation of 'this keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
+## Design
+* [Psycology of fonts](https://crew.co/blog/the-psychology-of-fonts/)
 
-## Projects and Ideas
-1. [FreeCodeCamp](https://www.freecodecamp.com)
-2. [The Odin Project](http://www.theodinproject.com/)
+## Blogs
+* [A List Apart(*design*)](https://alistapart.com/)
+* [Crew(*design*)](https://crew.co/blog/)
+* [CSS-Tricks(*Duh*)](https://css-tricks.com/)
+* [Smahing Magazine(*Web Development*)](https://www.smashingmagazine.com/)
+* [Zell Liew(*Web Development/Design*)](https://zellwk.com/blog/)
+* [UXdesign.cc](https://uxdesign.cc/)
 
-## Other resources
-1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
+## Inspiration
+* [ueno](https://ueno.co/) 
 
-## Books (both coding and non-coding)
+## Books
+* [Front-End Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2017/)
+* [Dive into HTML5](http://diveintohtml5.info/index.html)
+* [smacss](https://smacss.com/book/)
+* [You don't know js](https://github.com/getify/You-Dont-Know-JS)
 
-### Non-Coding
-1. ["The War of Art" by Steven Pressfield](http://www.goodreads.com/book/show/1319.The_War_of_Art)
-2. ["The Obstacle is the Way" by Ryan Holiday](http://www.goodreads.com/book/show/18668059-the-obstacle-is-the-way?ac=1&from_search=true)
-3. ["Ego is the Enemy" by Ryan Holiday](http://www.goodreads.com/book/show/27036528-ego-is-the-enemy?from_search=true&search_version=service)
-4. ["Meditations" by Marcus Aurelius](https://www.goodreads.com/book/show/662925.Meditations)
 
-### Coding
-1. "Professional Node.js" by Teixeira
-2. ["Eloquent Javascript" by Marijn Haverbeke](http://eloquentjavascript.net/) - available online (free) & as a paperback
-3. "Mastering JavaScript" by Ved Antani
+## APIs
+* [News API](https://newsapi.org)
 
-## Contents
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
+## Servers
+* [nginx on ubuntu] (https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-with-http-2-support-on-ubuntu-16-04)
+
+## Other(to be sorted)
+* [100 days of code site](http://100daysofcode.com/index.html)
+* [Regular Expressions](https://qntm.org/files/re/re.html)
+* [Zen Habits](https://zenhabits.net/)
+* [Keycode thing](keycode.info)
+* [regex crossword puzzle](https://regexcrossword.com/)
+* [Mozilla seo guide](https://moz.com/beginners-guide-to-seo)
+* [Progressive web app thing](https://dev.to/alexjoverm/how-i-made-a-progressive-web-app-out-of-my-blog)
+* [js sandbox] (https://code.patricktriest.com/
+)
+ If by some miracle you're seeing this and know any cool site, guide or what have you [twitter me](https://twitter.com/hideshis)

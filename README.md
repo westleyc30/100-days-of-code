@@ -1,55 +1,23 @@
-# Useful resources for my coding and life
-I'll eventually put all the coding bookmarks I've found onto here so I can more easily scan through them.
+# I've joined the #100DaysOfCode Challenge.
 
-## My github projects so far
-* [Calculator](https://westleyc30.github.io/calculator/)
-* [Portfolio (works need to update project info *unfinished*)](https://westleyc30.github.io/portfolio/)
-* [Weather app (html/css/js)](https://westleyc30.github.io/local_weather/)
-* [Wiki Search](https://westleyc30.github.io/wiki-viewer/)
+## Contents
+* [Rules](rules.md)
+* [Log - click here to see my progress](log.md)
+* [FAQ](FAQ.md)
+* [Resources](resources.md)
 
-## HTML
-* [Semenantic HTML](https://www.smashingmagazine.com/2015/02/design-last/#semantic-html)
-* [svg talk(Sarah Drasner)](https://www.youtube.com/watch?v=BTyKwxf60s4)
-* [slides to above talk](http://slides.com/sdrasner/sfhtml5-17#/25)
+## If you've decided to join:
+0. Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement.
+1. Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
+2. Fork this repo and commit to the [Log](log.md) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
+3. **Code minimum an hour every day for the next 100 days.**
+4. Change the date in [Rules](rules.md) to the day you've started the challenge.
+5. Delete the examples in the log, or comment them out, and start filling it with your own content.
+6. **Tweet your progress every day using the #100DaysOfCode hashtag.**
+7. Follow [100DaysOfCode](https://twitter.com/_100DaysOfCode) Twitter Bot that retweets all the tweets that contain the #100DaysOfCode hashtag. It's a great way to keep yourself motivated and to participate in the community. Thanks [@amanhimself](https://twitter.com/amanhimself) for creating it!
+8. Important: Encourage others who are doing the same challenge on Twitter or elsewhere - by giving them props when they are posting updates on their progress, supporting them when things get difficult. Thus we will grow a community that is helpful and effective, which will lead to a higher success rate for each person involved. It's also more likely that you will stick to your own commitment, given that you will get acquainted with a couple people (or more) right away.
+9. If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or just tweet at me (see info below)
 
-## CSS
-* [advanced sass](https://gist.github.com/jareware/4738651)
-* [css grid](https://www.youtube.com/watch?v=7kVeCqQCxlk)
-* [grid by example](https://gridbyexample.com)
-
-## Javascript
-  
-### ES6
-* [destructuring explained](http://wesbos.com/destructuring-objects/)
-* [more destructuring](http://www.projectforrest.com/path/97)
-* [higher order functions](https://developer.ibm.com/node/2016/01/11/higher-order-functions-in-es6easy-as-a-b-c/)
-### Node
-* [Some reddit guys comment on how to deploy a node server](https://www.reddit.com/r/webdev/comments/6nd7oj/how_do_i_upload_my_nodejs_project_to_digitalocean/)
-### React
-* [Ebook, Road to learn react](https://www.robinwieruch.de/the-road-to-learn-react/)
-
-## Design
-* [Psycology of fonts](https://crew.co/blog/the-psychology-of-fonts/)
-
-## Blogs
-* [A List Apart(*design*)](https://alistapart.com/)
-* [Crew(*design*)](https://crew.co/blog/)
-* [CSS-Tricks(*Duh*)](https://css-tricks.com/)
-* [Smahing Magazine(*Web Development*)](https://www.smashingmagazine.com/)
-* [Zell Liew(*Web Development/Design*)](https://zellwk.com/blog/)
-* [UXdesign.cc](https://uxdesign.cc/)
-
-## Inspiration
-* [ueno](https://ueno.co/) 
-
-
-## Other(to be sorted)
-* [100 days of code site](http://100daysofcode.com/index.html)
-* [Regular Expressions](https://qntm.org/files/re/re.html)
-* [Zen Habits](https://zenhabits.net/)
-* [News API](https://newsapi.org)
-* [Keycode thing](keycode.info)
-* [regex crossword puzzle](https://regexcrossword.com/)
-* [Mozilla seo guide](https://moz.com/beginners-guide-to-seo)
-
- If by some miracle you're seeing this and know any cool site, guide or what have you [twitter me](https://twitter.com/hideshis)
+## Note
+* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
+* If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) :)
